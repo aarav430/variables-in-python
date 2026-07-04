@@ -1,0 +1,7 @@
+import math
+print(math.ceil(1.2))
+print(math.floor(5.4))
+print(math.sqrt(128))
+print(math.factorial(7))
+print(math.pow(2,2))
+print(math.pi)
