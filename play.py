@@ -1,0 +1,10 @@
+num = [15, 20, 25, 30, 35, 40, 45, 50]
+total = sum(num)
+average = total / len(num)
+largest = max(num)
+smallest = min(num)
+print(num)
+print(total)
+print(average)
+print(largest)
+print(smallest)
