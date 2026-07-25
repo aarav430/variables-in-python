@@ -1,0 +1,8 @@
+one= (1 , True , 1.1 , "the")
+print(one)
+num= (10 ,20 ,30 ,30 ,40 ,50 ,60)
+print(num)
+num= num +(9,)
+print(num)
+print(num.count(30))
+print(num[1:4])
