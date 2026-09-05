@@ -1,0 +1,9 @@
+class employee:
+    def __init__(self):
+        print("employee created")
+    def __del__(self):
+        print("destuctor called")
+def create_obj():
+    print("making onject...")
+    return obj 
+print("program end")
